@@ -14,7 +14,7 @@ date,rank,model,score,ci95,votes,organization,license
 2025-11-20,13,,gpt-5.1,1435,±9,"5,135",OpenAI
 2025-11-20,14,,o3-2025-04-16,1434,±4,"61,635",OpenAI
 2025-11-20,15,,qwen3-max-preview,1433,±5,"28,154",Alibaba
-2025-11-20,16,,MoonshotAIkimi-k2-thinking,1429,±7,"8,126",Moonshot
+2025-11-20,16,,MoonshotAIkimi-k2-thinking-turbo,1429,±7,"8,126",Moonshot
 2025-11-20,17,,glm-4.6,1426,±5,"16,268",Z.ai
 2025-11-20,18,,gpt-5-chat,1425,±4,"32,171",OpenAI
 2025-11-20,19,,qwen3-max-2025-09-23,1423,±6,"9,266",Alibaba
@@ -272,6 +272,7 @@ date,rank,model,score,ci95,votes,organization,license
 2025-11-20,271,,dolly-v2-12b,981,±14,"3,471",Databricks
 2025-11-20,272,,Metallama-13b,973,±16,"2,441",Meta
 2025-11-20,273,,Stabilitystablelm-tuned-alpha-7b,955,±13,"3,325",Stability AI
+2025-11-20,16,,MoonshotAIkimi-k2-thinking,1429,±7,"8,126",Moonshot
 2025-11-18,1,,gemini-3-pro,1498Preliminary,±11,"3,768",Google
 2025-11-18,2,,grok-4.1-thinking,1483Preliminary,±11,"3,467",xAI
 2025-11-18,3,,grok-4.1,1464Preliminary,±10,"3,588",xAI
