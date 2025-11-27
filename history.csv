@@ -1,4 +1,280 @@
 date,rank,model,score,ci95,votes,organization,license
+2025-11-26,1,,gemini-3-pro,1492,±8,"9,799",Google
+2025-11-26,2,,grok-4.1-thinking,1482,±8,"10,067",xAI
+2025-11-26,3,,Anthropicclaude-opus-4-5-20251101,1466,±9,"4,677",Anthropic
+2025-11-26,4,,grok-4.1,1464,±8,"9,967",xAI
+2025-11-26,5,,gpt-5.1-high,1461,±8,"7,893",OpenAI
+2025-11-26,6,,Anthropicclaude-opus-4-5-20251101-thinking-32k,1460,±12,"2,763",Anthropic
+2025-11-26,7,,gemini-2.5-pro,1452,±4,"70,875",Google
+2025-11-26,8,,Anthropicclaude-sonnet-4-5-20250929-thinking-32k,1448,±5,"22,000",Anthropic
+2025-11-26,9,,Anthropicclaude-opus-4-1-20250805-thinking-16k,1448,±4,"37,617",Anthropic
+2025-11-26,10,,Anthropicclaude-sonnet-4-5-20250929,1445,±6,"16,961",Anthropic
+2025-11-26,11,,gpt-4.5-preview-2025-02-27,1442,±6,"14,644",OpenAI
+2025-11-26,12,,Anthropicclaude-opus-4-1-20250805,1441,±4,"50,738",Anthropic
+2025-11-26,13,,chatgpt-4o-latest-20250326,1438,±4,"57,014",OpenAI
+2025-11-26,14,,gpt-5-high,1437,±5,"32,905",OpenAI
+2025-11-26,15,,gpt-5.1,1437,±8,"8,526",OpenAI
+2025-11-26,16,,o3-2025-04-16,1434,±4,"61,633",OpenAI
+2025-11-26,17,,qwen3-max-preview,1433,±5,"28,155",Alibaba
+2025-11-26,18,,MoonshotAIkimi-k2-thinking-turbo,1431,±7,"9,674",Moonshot
+2025-11-26,19,,glm-4.6,1426,±5,"18,980",Z.ai
+2025-11-26,20,,gpt-5-chat,1425,±4,"32,156",OpenAI
+2025-11-26,21,,deepseek-v3.2-exp,1424,±7,"9,690",DeepSeek AI
+2025-11-26,22,,qwen3-max-2025-09-23,1423,±6,"9,258",Alibaba
+2025-11-26,23,,Anthropicclaude-opus-4-20250514-thinking-16k,1423,±4,"37,894",Anthropic
+2025-11-26,24,,grok-4-1-fast-reasoning,1422,±12,"2,774",xAI
+2025-11-26,25,,qwen3-235b-a22b-instruct-2507,1421,±4,"45,379",Alibaba
+2025-11-26,26,,deepseek-v3.2-exp-thinking,1421,±7,"9,225",DeepSeek AI
+2025-11-26,27,,grok-4-fast,1420,±8,"7,063",xAI
+2025-11-26,28,,MoonshotAIkimi-k2-0905-preview,1418,±7,"11,839",Moonshot
+2025-11-26,29,,ernie-5.0-preview-1022,1418,±9,"4,708",Baidu
+2025-11-26,30,,deepseek-r1-0528,1418,±6,"19,243",DeepSeek
+2025-11-26,31,,MoonshotAIkimi-k2-0711-preview,1417,±5,"28,680",Moonshot
+2025-11-26,32,,deepseek-v3.1,1416,±6,"15,262",DeepSeek
+2025-11-26,33,,deepseek-v3.1-thinking,1416,±7,"11,989",DeepSeek
+2025-11-26,34,,qwen3-vl-235b-a22b-instruct,1415,±7,"8,538",Alibaba
+2025-11-26,35,,deepseek-v3.1-terminus,1415,±10,"3,748",DeepSeek AI
+2025-11-26,36,,deepseek-v3.1-terminus-thinking,1414,±10,"3,525",DeepSeek AI
+2025-11-26,37,,Anthropicclaude-opus-4-20250514,1412,±4,"45,694",Anthropic
+2025-11-26,38,,gpt-4.1-2025-04-14,1412,±4,"52,591",OpenAI
+2025-11-26,39,,grok-3-preview-02-24,1410,±4,"34,141",xAI
+2025-11-26,40,,mistral-medium-2508,1410,±4,"39,497",Mistral
+2025-11-26,41,,grok-4-0709,1409,±4,"42,576",xAI
+2025-11-26,42,,glm-4.5,1408,±5,"24,833",Z.ai
+2025-11-26,43,,gemini-2.5-flash,1407,±4,"70,154",Google
+2025-11-26,44,,gemini-2.5-flash-preview-09-2025,1406,±5,"23,308",Google
+2025-11-26,45,,grok-4-fast-reasoning,1402,±5,"18,899",xAI
+2025-11-26,46,,Anthropicclaude-haiku-4-5-20251001,1401,±5,"20,049",Anthropic
+2025-11-26,47,,o1-2024-12-17,1401,±4,"28,039",OpenAI
+2025-11-26,48,,qwen3-next-80b-a3b-instruct,1400,±5,"23,127",Alibaba
+2025-11-26,49,,Anthropicclaude-sonnet-4-20250514-thinking-32k,1399,±4,"36,229",Anthropic
+2025-11-26,50,,longcat-flash-chat,1399,±6,"11,505",Meituan
+2025-11-26,51,,qwen3-235b-a22b-no-thinking,1399,±5,"39,389",Alibaba
+2025-11-26,52,,qwen3-235b-a22b-thinking-2507,1397,±6,"9,346",Alibaba
+2025-11-26,53,,deepseek-r1,1395,±5,"18,718",DeepSeek
+2025-11-26,54,,qwen3-vl-235b-a22b-thinking,1393,±7,"7,989",Alibaba
+2025-11-26,55,,gpt-5-mini-high,1393,±5,"27,459",OpenAI
+2025-11-26,56,,deepseek-v3-0324,1392,±4,"46,802",DeepSeek
+2025-11-26,57,,o4-mini-2025-04-16,1391,±4,"46,867",OpenAI
+2025-11-26,58,,Tencenthunyuan-vision-1.5-thinking,1391,±12,"2,216",Tencent
+2025-11-26,59,,mai-1-preview,1390,±5,"18,195",Microsoft AI
+2025-11-26,60,,Anthropicclaude-sonnet-4-20250514,1389,±4,"41,662",Anthropic
+2025-11-26,61,,o1-preview,1387,±5,"31,505",OpenAI
+2025-11-26,62,,Anthropicclaude-3-7-sonnet-20250219-thinking-32k,1387,±4,"39,924",Anthropic
+2025-11-26,63,,qwen3-coder-480b-a35b-instruct,1385,±5,"23,164",Alibaba
+2025-11-26,64,,Tencenthunyuan-t1-20250711,1385,±9,"4,819",Tencent
+2025-11-26,65,,mistral-medium-2505,1383,±5,"34,533",Mistral
+2025-11-26,66,,qwen3-30b-a3b-instruct-2507,1382,±5,"24,205",Alibaba
+2025-11-26,67,,gpt-4.1-mini-2025-04-14,1380,±4,"40,503",OpenAI
+2025-11-26,68,,Tencenthunyuan-turbos-20250416,1380,±6,"11,136",Tencent
+2025-11-26,69,,gemini-2.5-flash-lite-preview-09-2025-no-thinking,1379,±5,"23,118",Google
+2025-11-26,70,,gemini-2.5-flash-lite-preview-06-17-thinking,1375,±4,"33,982",Google
+2025-11-26,71,,qwen3-235b-a22b,1374,±5,"27,173",Alibaba
+2025-11-26,72,,qwen2.5-max,1372,±4,"33,550",Alibaba
+2025-11-26,73,,Anthropicclaude-3-5-sonnet-20241022,1372,±3,"89,852",Anthropic
+2025-11-26,74,,Anthropicclaude-3-7-sonnet-20250219,1371,±4,"44,570",Anthropic
+2025-11-26,75,,glm-4.5-air,1370,±4,"31,678",Z.ai
+2025-11-26,76,,qwen3-next-80b-a3b-thinking,1367,±6,"13,821",Alibaba
+2025-11-26,77,,Minimaxminimax-m1,1366,±4,"36,891",MiniMax
+2025-11-26,78,,gemma-3-27b-it,1365,±4,"49,328",Google
+2025-11-26,79,,o3-mini-high,1362,±5,"18,735",OpenAI
+2025-11-26,80,,grok-3-mini-high,1362,±5,"17,592",xAI
+2025-11-26,81,,gemini-2.0-flash-001,1360,±4,"45,114",Google
+2025-11-26,82,,deepseek-v3,1357,±5,"21,994",DeepSeek
+2025-11-26,83,,grok-3-mini-beta,1357,±5,"23,806",xAI
+2025-11-26,84,,mistral-small-2506,1354,±5,"18,330",Mistral
+2025-11-26,85,,gemini-2.0-flash-lite-preview-02-05,1352,±4,"25,215",Google
+2025-11-26,86,,gpt-oss-120b,1352,±4,"31,283",OpenAI
+2025-11-26,87,,Coherecommand-a-03-2025,1352,±3,"57,853",Cohere
+2025-11-26,88,,glm-4.5v,1352,±8,"4,978",Z.ai
+2025-11-26,89,,gemini-1.5-pro-002,1351,±3,"56,012",Google
+2025-11-26,90,,amazon-nova-experimental-chat-10-20,1349,±10,"3,946",Amazon
+2025-11-26,91,,o3-mini,1348,±3,"58,821",OpenAI
+2025-11-26,92,,ling-flash-2.0,1346,±7,"7,158",Ant Group
+2025-11-26,93,,Tencenthunyuan-turbos-20250226,1346,±12,"2,250",Tencent
+2025-11-26,94,,Minimaxminimax-m2,1346,±8,"7,132",MiniMax
+2025-11-26,95,,Stepfunstep-3,1345,±7,"6,648",StepFun
+2025-11-26,96,,Nvidiallama-3.1-nemotron-ultra-253b-v1,1345,±12,"2,573",Nvidia
+2025-11-26,97,,gpt-4o-2024-05-13,1345,±3,"113,568",OpenAI
+2025-11-26,98,,amazon-nova-experimental-chat-10-09,1345,±11,"2,892",Amazon
+2025-11-26,99,,qwen3-32b,1344,±9,"3,943",Alibaba
+2025-11-26,100,,qwen-plus-0125,1344,±8,"5,861",Alibaba
+2025-11-26,101,,glm-4-plus-0111,1343,±8,"5,806",Zhipu
+2025-11-26,102,,Anthropicclaude-3-5-sonnet-20240620,1342,±3,"82,864",Anthropic
+2025-11-26,103,,gemma-3-12b-it,1340,±9,"3,866",Google
+2025-11-26,104,,Nvidianvidia-llama-3.3-nemotron-super-49b-v1.5,1340,±10,"3,497",Nvidia
+2025-11-26,105,,gpt-5-nano-high,1339,±7,"8,393",OpenAI
+2025-11-26,106,,Tencenthunyuan-turbo-0110,1338,±11,"2,322",Tencent
+2025-11-26,107,,Metallama-3.1-405b-instruct-bf16,1335,±4,"41,932",Meta
+2025-11-26,108,,o1-mini,1335,±4,"52,301",OpenAI
+2025-11-26,109,,gpt-4o-2024-08-06,1334,±4,"45,787",OpenAI
+2025-11-26,110,,grok-2-2024-08-13,1334,±4,"63,725",xAI
+2025-11-26,111,,gemini-advanced-0514,1333,±5,"50,654",Google
+2025-11-26,112,,qwq-32b,1333,±4,"26,279",Alibaba
+2025-11-26,113,,Metallama-3.1-405b-instruct-fp8,1333,±3,"60,272",Meta
+2025-11-26,114,,Stepfunstep-2-16k-exp-202412,1332,±8,"4,895",StepFun
+2025-11-26,115,,01.AIyi-lightning,1328,±5,"27,624",01 AI
+2025-11-26,116,,Metallama-4-maverick-17b-128e-instruct,1327,±4,"41,220",Meta
+2025-11-26,117,,qwen3-30b-a3b,1326,±5,"27,498",Alibaba
+2025-11-26,118,,Nvidiallama-3.3-nemotron-49b-super-v1,1325,±12,"2,243",Nvidia
+2025-11-26,119,,Tencenthunyuan-large-2025-02-10,1324,±10,"3,760",Tencent
+2025-11-26,120,,gpt-4-turbo-2024-04-09,1324,±4,"98,965",OpenAI
+2025-11-26,121,,Anthropicclaude-3-5-haiku-20241022,1323,±3,"71,404",Anthropic
+2025-11-26,122,,Metallama-4-scout-17b-16e-instruct,1323,±5,"31,208",Meta
+2025-11-26,123,,Anthropicclaude-3-opus-20240229,1322,±3,"196,368",Anthropic
+2025-11-26,124,,deepseek-v2.5-1210,1322,±8,"6,877",DeepSeek
+2025-11-26,125,,gemini-1.5-pro-001,1322,±4,"79,769",Google
+2025-11-26,126,,gpt-4.1-nano-2025-04-14,1320,±8,"6,143",OpenAI
+2025-11-26,127,,ring-flash-2.0,1320,±7,"7,282",Ant Group
+2025-11-26,128,,Metallama-3.3-70b-instruct,1319,±3,"56,018",Meta
+2025-11-26,129,,Stepfunstep-1o-turbo-202506,1319,±7,"9,670",StepFun
+2025-11-26,130,,gemma-3n-e4b-it,1318,±5,"23,472",Google
+2025-11-26,131,,glm-4-plus,1318,±5,"26,342",Zhipu AI
+2025-11-26,132,,gpt-oss-20b,1318,±6,"10,854",OpenAI
+2025-11-26,133,,qwen-max-0919,1317,±6,"16,598",Alibaba
+2025-11-26,134,,gpt-4o-mini-2024-07-18,1316,±3,"69,291",OpenAI
+2025-11-26,135,,qwen2.5-plus-1127,1314,±6,"10,252",Alibaba
+2025-11-26,136,,gpt-4-1106-preview,1313,±4,"101,117",OpenAI
+2025-11-26,137,,gpt-4-0125-preview,1313,±4,"94,534",OpenAI
+2025-11-26,138,,mistral-large-2407,1313,±4,"45,968",Mistral
+2025-11-26,139,,athene-v2-chat,1313,±4,"24,880",NexusFlow
+2025-11-26,140,,mercury,1312,±14,"1,966",Inception AI
+2025-11-26,141,,gemini-1.5-flash-002,1310,±4,"35,180",Google
+2025-11-26,142,,Tencenthunyuan-standard-2025-02-10,1310,±10,"3,920",Tencent
+2025-11-26,143,,grok-2-mini-2024-08-13,1307,±4,"52,789",xAI
+2025-11-26,144,,deepseek-v2.5,1306,±5,"24,839",DeepSeek
+2025-11-26,145,,magistral-medium-2506,1305,±6,"12,000",Mistral
+2025-11-26,146,,mistral-large-2411,1304,±4,"28,455",Mistral
+2025-11-26,147,,athene-70b-0725,1304,±6,"19,796",NexusFlow
+2025-11-26,148,,mistral-small-3.1-24b-instruct-2503,1303,±4,"34,148",Mistral
+2025-11-26,149,,gemma-3-4b-it,1303,±9,"4,195",Google
+2025-11-26,150,,qwen2.5-72b-instruct,1301,±4,"39,632",Alibaba
+2025-11-26,151,,Nvidiallama-3.1-nemotron-70b-instruct,1297,±8,"7,216",Nvidia
+2025-11-26,152,,Tencenthunyuan-large-vision,1295,±9,"5,600",Tencent
+2025-11-26,153,,Metallama-3.1-70b-instruct,1293,±4,"56,003",Meta
+2025-11-26,154,,amazon-nova-pro-v1.0,1288,±4,"25,218",Amazon
+2025-11-26,155,,jamba-1.5-large,1288,±7,"8,730",AI21 Labs
+2025-11-26,156,,reka-core-20240904,1287,±7,"7,380",Reka AI
+2025-11-26,157,,gemma-2-27b-it,1287,±3,"76,195",Google
+2025-11-26,158,,gpt-4-0314,1286,±5,"54,754",OpenAI
+2025-11-26,159,,Nvidiallama-3.1-nemotron-51b-instruct,1286,±10,"3,777",Nvidia
+2025-11-26,160,,llama-3.1-tulu-3-70b,1286,±10,"2,881",Ai2
+2025-11-26,161,,gemini-1.5-flash-001,1284,±4,"63,418",Google
+2025-11-26,162,,Anthropicclaude-3-sonnet-20240229,1281,±4,"110,173",Anthropic
+2025-11-26,163,,gemma-2-9b-it-simpo,1278,±7,"10,108",Princeton
+2025-11-26,164,,Nvidianemotron-4-340b-instruct,1278,±5,"19,913",Nvidia
+2025-11-26,165,,Coherecommand-r-plus-08-2024,1277,±6,"9,931",Cohere
+2025-11-26,166,,Metallama-3-70b-instruct,1276,±3,"158,908",Meta
+2025-11-26,167,,gpt-4-0613,1275,±4,"89,612",OpenAI
+2025-11-26,168,,mistral-small-24b-instruct-2501,1273,±6,"14,830",Mistral
+2025-11-26,169,,glm-4-0520,1273,±7,"9,857",Zhipu AI
+2025-11-26,170,,reka-flash-20240904,1273,±7,"7,583",Reka AI
+2025-11-26,171,,qwen2.5-coder-32b-instruct,1269,±8,"5,452",Alibaba
+2025-11-26,172,,Coherec4ai-aya-expanse-32b,1267,±5,"27,362",Cohere
+2025-11-26,173,,gemma-2-9b-it,1264,±4,"54,954",Google
+2025-11-26,174,,deepseek-coder-v2,1263,±6,"15,242",DeepSeek AI
+2025-11-26,175,,Coherecommand-r-plus,1263,±4,"78,401",Cohere
+2025-11-26,176,,qwen2-72b-instruct,1262,±5,"37,688",Alibaba
+2025-11-26,177,,Anthropicclaude-3-haiku-20240307,1261,±4,"118,626",Anthropic
+2025-11-26,178,,amazon-nova-lite-v1.0,1259,±5,"19,760",Amazon
+2025-11-26,179,,gemini-1.5-flash-8b-001,1259,±4,"35,914",Google
+2025-11-26,180,,Azurephi-4,1255,±4,"24,354",Microsoft
+2025-11-26,181,,olmo-2-0325-32b-instruct,1253,±11,"3,377",Allen AI
+2025-11-26,182,,Coherecommand-r-08-2024,1251,±7,"10,229",Cohere
+2025-11-26,183,,mistral-large-2402,1242,±5,"63,404",Mistral
+2025-11-26,184,,amazon-nova-micro-v1.0,1241,±5,"19,774",Amazon
+2025-11-26,185,,jamba-1.5-mini,1239,±7,"8,918",AI21 Labs
+2025-11-26,186,,ministral-8b-2410,1237,±9,"4,833",Mistral
+2025-11-26,187,,qwen1.5-110b-chat,1234,±5,"26,679",Alibaba
+2025-11-26,188,,gemini-pro-dev-api,1234,±7,"18,454",Google
+2025-11-26,189,,qwen1.5-72b-chat,1234,±5,"39,689",Alibaba
+2025-11-26,190,,reka-flash-21b-20240226-online,1233,±7,"15,606",Reka AI
+2025-11-26,191,,Tencenthunyuan-standard-256k,1233,±12,"2,761",Tencent
+2025-11-26,192,,mixtral-8x22b-instruct-v0.1,1230,±4,"52,214",Mistral
+2025-11-26,193,,Coherecommand-r,1228,±5,"54,710",Cohere
+2025-11-26,194,,reka-flash-21b-20240226,1227,±6,"25,026",Reka AI
+2025-11-26,195,,gpt-3.5-turbo-0125,1224,±5,"67,214",OpenAI
+2025-11-26,196,,mistral-medium,1224,±5,"34,893",Mistral
+2025-11-26,197,,Coherec4ai-aya-expanse-8b,1223,±7,"9,922",Cohere
+2025-11-26,198,,Metallama-3-8b-instruct,1223,±4,"106,055",Meta
+2025-11-26,199,,llama-3.1-tulu-3-8b,1222,±11,"2,943",Ai2
+2025-11-26,200,,gemini-pro,1221,±12,"6,418",Google
+2025-11-26,201,,HuggingFacezephyr-orpo-141b-A35b-v0.1,1214,±11,"4,712",HuggingFace
+2025-11-26,202,,01.AIyi-1.5-34b-chat,1213,±5,"24,417",01 AI
+2025-11-26,203,,Metallama-3.1-8b-instruct,1211,±4,"50,234",Meta
+2025-11-26,204,,granite-3.1-8b-instruct,1210,±11,"3,142",IBM
+2025-11-26,205,,qwen1.5-32b-chat,1205,±6,"22,068",Alibaba
+2025-11-26,206,,gpt-3.5-turbo-1106,1202,±9,"16,760",OpenAI
+2025-11-26,207,,Azurephi-3-medium-4k-instruct,1198,±5,"25,301",Microsoft
+2025-11-26,208,,mixtral-8x7b-instruct-v0.1,1198,±4,"74,303",Mistral
+2025-11-26,209,,gemma-2-2b-it,1198,±4,"46,901",Google
+2025-11-26,210,,dbrx-instruct-preview,1196,±6,"32,760",Databricks
+2025-11-26,211,,qwen1.5-14b-chat,1193,±7,"18,066",Alibaba
+2025-11-26,212,,InternLMinternlm2_5-20b-chat,1192,±7,"10,038",InternLM
+2025-11-26,213,,Azurewizardlm-70b,1185,±9,"8,270",Microsoft
+2025-11-26,214,,deepseek-llm-67b-chat,1184,±11,"4,950",DeepSeek AI
+2025-11-26,215,,01.AIyi-34b-chat,1184,±7,"15,624",01 AI
+2025-11-26,216,,granite-3.0-8b-instruct,1184,±9,"6,727",IBM
+2025-11-26,217,,OpenChatopenchat-3.5-0106,1183,±8,"12,712",OpenChat
+2025-11-26,218,,OpenChatopenchat-3.5,1182,±10,"8,009",OpenChat
+2025-11-26,219,,granite-3.1-2b-instruct,1181,±11,"3,235",IBM
+2025-11-26,220,,Snowflakesnowflake-arctic-instruct,1180,±6,"33,272",Snowflake
+2025-11-26,221,,gemma-1.1-7b-it,1180,±6,"24,327",Google
+2025-11-26,222,,tulu-2-dpo-70b,1179,±10,"6,579",AllenAI/UW
+2025-11-26,223,,openhermes-2.5-mistral-7b,1176,±10,"5,026",NousResearch
+2025-11-26,224,,vicuna-33b,1173,±6,"22,613",LMSYS
+2025-11-26,225,,starling-lm-7b-beta,1173,±7,"16,190",Nexusflow
+2025-11-26,226,,Azurephi-3-small-8k-instruct,1172,±6,"17,983",Microsoft
+2025-11-26,227,,Metallama-2-70b-chat,1172,±5,"38,767",Meta
+2025-11-26,228,,starling-lm-7b-alpha,1168,±8,"10,267",UC Berkeley
+2025-11-26,229,,Metallama-3.2-3b-instruct,1167,±8,"8,043",Meta
+2025-11-26,230,,nous-hermes-2-mixtral-8x7b-dpo,1166,±12,"3,792",NousResearch
+2025-11-26,231,,qwq-32b-preview,1160,±11,"3,256",Alibaba
+2025-11-26,232,,Nvidiallama2-70b-steerlm-chat,1157,±13,"3,605",Nvidia
+2025-11-26,233,,granite-3.0-2b-instruct,1157,±8,"6,922",IBM
+2025-11-26,234,,solar-10.7b-instruct-v1.0,1154,±13,"4,187",Upstage AI
+2025-11-26,235,,dolphin-2.2.1-mistral-7b,1152,±15,"1,685",Cognitive Computations
+2025-11-26,236,,mistral-7b-instruct-v0.2,1151,±7,"19,603",Mistral
+2025-11-26,237,,mpt-30b-chat,1151,±12,"2,606",MosaicML
+2025-11-26,238,,Azurewizardlm-13b,1150,±9,"7,122",Microsoft
+2025-11-26,239,,falcon-180b-chat,1147,±17,"1,312",TII
+2025-11-26,240,,qwen1.5-7b-chat,1144,±10,"4,782",Alibaba
+2025-11-26,241,,Azurephi-3-mini-4k-instruct-june-2024,1143,±6,"12,415",Microsoft
+2025-11-26,242,,Metallama-2-13b-chat,1142,±7,"19,357",Meta
+2025-11-26,243,,vicuna-13b,1142,±7,"19,539",LMSYS
+2025-11-26,244,,qwen-14b-chat,1139,±11,"5,004",Alibaba
+2025-11-26,245,,Metacodellama-34b-instruct,1137,±9,"7,417",Meta
+2025-11-26,246,,palm-2,1136,±9,"8,634",Google
+2025-11-26,247,,gemma-7b-it,1135,±9,"9,034",Google
+2025-11-26,248,,HuggingFacezephyr-7b-beta,1132,±9,"11,220",HuggingFace
+2025-11-26,249,,Azurephi-3-mini-128k-instruct,1131,±7,"21,024",Microsoft
+2025-11-26,250,,Azurephi-3-mini-4k-instruct,1129,±6,"20,539",Microsoft
+2025-11-26,251,,HuggingFacezephyr-7b-alpha,1128,±16,"1,803",HuggingFace
+2025-11-26,252,,guanaco-33b,1128,±12,"2,955",UW
+2025-11-26,253,,stripedhyena-nous-7b,1121,±11,"5,214",Together AI
+2025-11-26,254,,Metacodellama-70b-instruct,1119,±18,"1,151",Meta
+2025-11-26,255,,HuggingFacesmollm2-1.7b-instruct,1119,±14,"2,244",HuggingFace
+2025-11-26,256,,vicuna-7b,1115,±9,"6,972",LMSYS
+2025-11-26,257,,gemma-1.1-2b-it,1114,±8,"11,035",Google
+2025-11-26,258,,Metallama-3.2-1b-instruct,1113,±8,"8,166",Meta
+2025-11-26,259,,mistral-7b-instruct,1110,±9,"9,042",Mistral
+2025-11-26,260,,Metallama-2-7b-chat,1109,±7,"14,272",Meta
+2025-11-26,261,,qwen1.5-4b-chat,1091,±9,"7,662",Alibaba
+2025-11-26,262,,gemma-2b-it,1091,±12,"4,817",Google
+2025-11-26,263,,olmo-7b-instruct,1075,±11,"6,412",Allen AI
+2025-11-26,264,,koala-13b,1070,±10,"6,998",UC Berkeley
+2025-11-26,265,,alpaca-13b,1066,±12,"5,828",Stanford
+2025-11-26,266,,gpt4all-13b-snoozy,1065,±15,"1,773",Nomic AI
+2025-11-26,267,,mpt-7b-chat,1061,±12,"3,977",MosaicML
+2025-11-26,268,,chatglm3-6b,1057,±12,"4,692",Tsinghua
+2025-11-26,269,,RWKVRWKV-4-Raven-14B,1041,±11,"4,898",RWKV
+2025-11-26,270,,chatglm2-6b,1025,±14,"2,683",Tsinghua
+2025-11-26,271,,oasst-pythia-12b,1022,±11,"6,343",OpenAssistant
+2025-11-26,272,,chatglm-6b,995,±13,"4,968",Tsinghua
+2025-11-26,273,,fastchat-t5-3b,991,±12,"4,270",LMSYS
+2025-11-26,274,,dolly-v2-12b,978,±14,"3,471",Databricks
+2025-11-26,275,,Metallama-13b,970,±16,"2,441",Meta
+2025-11-26,276,,Stabilitystablelm-tuned-alpha-7b,952,±13,"3,325",Stability AI
 2025-11-20,1,,gemini-3-pro,1495Preliminary,±9,"5,471",Google
 2025-11-20,2,,grok-4.1-thinking,1481Preliminary,±9,"5,822",xAI
 2025-11-20,3,,grok-4.1,1462Preliminary,±9,"5,825",xAI
