@@ -33,20 +33,20 @@ const { isEqual, uniqWith, sortBy } = require("lodash");
         return {
           date,
           rank: $el.find("td").eq(0).text(),
-          model: $el.find("td").eq(1).find("a").text(),
+          model: $el.find("td").eq(2).find("a").text(),
           // Sometimes this field has a button but we don't want that
           score: $el
             .find("td")
-            .eq(2)
+            .eq(3)
             .clone()
             .find("button")
             .remove()
             .end()
             .text(),
-          ci95: $el.find("td").eq(3).text(),
-          votes: $el.find("td").eq(4).text(),
-          organization: $el.find("td").eq(5).text(),
-          license: $el.find("td").eq(6).text(),
+          ci95: $el.find("td").eq(4).text(),
+          votes: $el.find("td").eq(5).text(),
+          organization: $el.find("td").eq(6).text(),
+          license: $el.find("td").eq(7).text(),
         };
       })
       .toArray();
